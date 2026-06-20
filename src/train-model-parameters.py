@@ -12,6 +12,7 @@ import matplotlib.pyplot as plt
 
 def main(args):
     # read data
+    # test chnage
     df = get_data(args.training_data)
 
     # split data
